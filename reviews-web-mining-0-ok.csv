@@ -1,0 +1,461 @@
+	Content	Sentiment
+0	"Bắc Giang không phải là một nơi được đầu tư và có tiềm năng du lịch mạnh nên khi tới đây mặc dù có rất nhiều địa danh cảnh quan đẹp nhưng bạn có thể sẽ phải tự mình khám phá nó hoặc nhờ tới những người dân bản địa ở đó.
+                                              Nhưng đổi lại bạn sẽ nhận được tình cảm cũng như sự giúp đỡ nhiệt tình của con người nơi đây.
+                                              Tất cả đều là sự trải nghiệm thực tế của mình và những cảm xúc thật của mình mong sẽ cung cấp được một phần về nơi đây cho mọi người."	0
+1	hải sản ko phong phú và chế biến ko ngon	0
+2	Trời có sương mù nên không nhìn được cảnh ở xa	0
+3	Khung cảnh không ấn tượng	0
+4	Bãi cát không mịn, nhiều sỏi đá, nước không xanh, buổi chiều sóng to, buổi tối cũng không có gì	0
+5	Khu nhà nghỉ chưa tốt lắm, dịch vụ chưa có gì	0
+6	Không lớn như tôi nghĩ	0
+7	Không gian chùa khá hẹp, giáp ngay phố nên hơi ồn ào	0
+8	Nhà ga rất nhỏ 	0
+9	Không có hoạt động hay hàng hóa gì đặc sắc cả	0
+10	Có nhiều làng dân tộc nhưng không có người sống ở đó nên nhà cửa đã cũ	0
+11	Lên chùa phải leo dốc cao	0
+12	Chợ không rộng lắm	0
+13	Không quá đặc biệt 	0
+14	Đường phố đông người, xe máy, ô tô nhiều 	0
+15	Buổi tối ở Coto khá buồn, không có nhiều hoạt động lắm; không mấy người thân thiện lắm	0
+16	Chưa có dịch vụ, nhà cửa không có người ở, vắng vẻ	0
+17	 Nếu các bạn ít thời gian thì nên đến Thác Tình yêu trước bởi thác tình yêu đẹp hơn rất rất nhiều so với Thác Bạc.	0
+18	Cát không đẹp, không mịn, nước cũng không trong lắm, buổi chiều có đoạn còn có rác bị sóng cuốn vào	0
+19	View được ra đường Nguyễn Huệ nhưng bị mấy chung cư đằng trước che lấp 1 phần	0
+20	Không có gì đặc sắc	0
+21	Quy mô nhỏ, không hoành tráng lắm	0
+22	Quy mô khá nhỏ, có thể gây ùn tắc nếu số lượng người thắp hương quá đông	0
+23	Đá khá trơn dễ trượt, có chỗ nước sâu, không nên đưa trẻ em dưới 5 tuổi đi cùng	0
+24	Hơi ít cây xanh, việc thả tiền vào giếng gây mất mĩ quan	0
+25	Rất đông khách nên sẽ hơi vất vả và phải tự sơ chế.	0
+26	Các mặt hàng không có gì đặc sắc cả.	0
+27	Vắng, nhân viên đông hơn khách. Giá cũng không mềm lắm	0
+28	Nếu đến đây nhiều ngày thì hơi ít điểm để đi	0
+29	Nhỏ, đường đi hơi chật, không phải lý tưởng để mua sắm	0
+30	Không có gì đặc biệt	0
+31	Tôi chẳng có điểm nào không thích ở Huế :)	0
+32	"- Người sống ở thành phố rất đông nên tình trạng kẹt xe hay xảy ra
+                                              - Ảnh hưởng trực tiếp triều cường và nước thoát rất chậm nên tình trạng ngập úng dễ xảy ra khi mưa
+                                              - Những con sông ở Sài Gòn là điểm yếu, nó rất dơ và hôi, tuy nhiên thành phố đang cải thiện.
+                                              - Ăn xin còn tồn tại quá nhiều."	0
+33	Không có nhiều thứ hay lắm	0
+34	Không có gì đặc biệt lắm	0
+35	Khá đắt. Một người 300-500k. Món ăn cũng tạm tạm nhưng không có gì đặc sắc	0
+36	 Nếu để mua sắm thì nên tới chỗ khác. Nếu để giải trí thì cũng không có gì.	0
+37	Tuy là có cây cối nhưng cũng nóng nên không nên cho trẻ em đi.	0
+38	Trừ cái vụ tiền Đô và khó xài được thẻ tín dung ra thì mình thấy rất ok. 	0
+39	Nước biển nhiều phù sa nên đục	0
+40	Hầu như không có thắng cảnh đặc sắc để tham quan. 	0
+41	 Không hấp dẫn	0
+42	Đi một lần là chán. Chỉ là cái hang bé	0
+43	Đường đi hẹp, mùi tanh và bí	0
+44	Đường đi khá nguy hiểm.	0
+45	Có quá nhiều điểm đến thú vị, nó sẽ khiến bạn đau đầu để chọn lựa và sắp xếp thời gian đấy.	0
+46	Hai bên bờ ăn uống tùm lum, nước bẩn và thức ăn hỏng cùng rác từ mấy nhà hàng tạo nên mùi hương ... khó tả. 	0
+47	Khá nhiều rác vứt lung tung	0
+48	Thuê tủ để đồ hơi đắt, 30k/ ngăn mà bé xíu	0
+49	Không thấy có gì đặc sắc hơn dịch vụ tương tự ở các nơi khác	0
+50	Dịch vụ và các hoạt động thì ở đây gần như là không có 	0
+51	Chợ rất đông, bạn hãy cẩn thận với tài sản và đồ đạc của mình khi đi trong chợ	0
+52	Tất nhiên được trải nghiệm cảnh quan hiếm có này là đièu thú vị, nhưng nếu không có nhiều hoạt động thú vị cho du lịch thì có lẽ ít người quay lại đây.	0
+53	Đường vào hơi khó đi, đường đất gồ ghề, nhỏ	0
+54	Cách tổ chức nặng về thương mại, ít tính trình diễn, tham quan	0
+55	Giá cũng không mềm mại cho lắm nên không hấp dẫn	0
+56	Đường lên Vườn Ba Vì khá khó đi và nguy hiểm, có nhiều đoạn dốc	0
+57	Giá vé đi tàu ra vịnh khá đắt	0
+58	Thời tiết - nắng oi bức, mưa dầm...	0
+59	Chưa có nhiều hoạt động buổi tối hay	0
+60	Buổi trưa hoặc chiều rất nắng	0
+61	Giao thông công cộng tới các điểm du lịch tại Thái Nguyên chưa thực sự nhiều lựa chọn. Các bạn có thể Bus chạy theo tuyến cố định (tuy nhiên sẽ hơi mất thời gian và ko được chủ động). Tốt nhất là sử dụng phương tiện cá nhân hoặc đi theo đoàn có xe chủ động	0
+62	Các shops ở mấy tầng trên thì cũng được nhưng không có gì đặc biệt lắm.	0
+63	Vé thắng cảnh đắt so với người Việt	0
+64	Cũng không có gì thực sự không thích	0
+65	Chưa có đường bay thẳng từ Việt nam tới Bali	0
+66	Nên mang quần áo mỏng, thích hợp với mùa hè	0
+67	Khí hậu nóng quanh năm	0
+68	À món chè và sinh tố ở đây hơi ngọt bạn nhé. 	0
+69	Không đẹp, phải đi vòng vèo.	0
+70	Còn thiếu những trò chơi cảm giác mạnh	0
+71	Đa số các nhà chỉ được dựng lên, bên trong không có gì nhiều để tham quan.	0
+72	Bán lẻ chèo kéo.	0
+73	Ít các dịch vụ chơi đêm ven biển	0
+74	Đạp xe dưới nắng nóng buổi trưa quả là một cực hình.	0
+75	Leo rất mệt, không có gì nhiều để xem cả, chỉ là một hang động bé	0
+76	Không có nhiều nơi mua sắm sang trọng. Nhiều khu vui chơi còn sơ sài. 	0
+77	"Trời Đà Lạt mà mưa thì đúng là buồn hiu hắt. 
+                                              
+                                              "	0
+78	Có một chút góp ý là nên bố trí thêm nhiều thùng rác trên đường đi, tốt hơn cho cảnh quan. 	0
+79	 Khá xa thị trấn	0
+80	Các địa điểm du lịch cách xa nhau.	0
+81	Giá cả có vẻ hơi “chát” với sinh viên. Nhân viên thì thấy mấy cô trông chẳng niềm nở, dễ gần gì cả, mà chắc tại đông khách nên họ dễ cáu, mặt lạnh…	0
+82	Một số hàng quán còn chưa đảm bảo vệ sinh. 	0
+83	Nếu như có 1 điều gì đó không thích ở nơi này - có lẽ chỉ là vì nắng quá mà thôi và đồ ăn như mọi tỉnh ở khu vực phía nam, đều hơi bị ngọt. 	0
+84	Là 1 hòn đảo mới đi vào hoạt động du lịch nên các dịch vụ ở đây còn hạn chế, chưa có các dịch vụ xông hơi, matxa, spa, các khu vu chơi giải trí. Hệ thống điện ở đây nên được nâng cấp để có thể hoạt động tốt hơn vì còn hay bị mất điện (mặc dù các nhà hàng đều có máy phát)	0
+85	Nothing.	0
+86	Không thật ấn tượng	0
+87	Hiện tại dịch vụ tại Cô Tô khá đơn giản, ngoài tắm biển, ngắm cảnh thì các loại hình giải trí khác chưa phát triển. Thêm nữa với những bạn bị say sóng thì quãng thời gian gần 2 giờ đồng hồ lênh đênh trên biển hẳn không dễ chịu chút nào.	0
+88	Đừng quá trông đợi dịch vụ nếu đi đến Côn Đảo, đừng là du khách - hãy sống như người dân đảo. 	0
+89	Đường lên Sa Pa gập ghềnh hiểm trở, nó giống như cái hàng rào mà người khách du lịch phải vượt qua thì mới đến được với mảnh đất diệu kỳ thơ mộng ấy.	0
+90	Không thấy có gì khác biệt nhiều lắm so với các chùa, đền khác	0
+91	"- Có lẽ vì Bình Ba còn hoang sơ, các dịch vụ, phương tiện đi lại còn chưa được tiện nghi nên chỉ phù hợp với người trẻ và có sức khoẻ tốt. Trên đảo rất rất ít khách sạn, hầu hết là ở homestay.
+                                    - Bãi biển Bình Ba rất đẹp. Bãi Nồm biển xanh, cát trắng nhưng có nhiều rác do người dân và khách du lịch xả ra, chưa có các thùng rác đặt gần bãi biển."	0
+92	Chợ rất đông nên không tránh khỏi những người xấu. Bạn hãy cẩn thận với tài sản và đồ đạc của mình khi đi trong chợ nhé	0
+93	Chi phí vào các khi Lăng mộ 	0
+94	Lý Sơn chưa xây dựng hoàn thiện hệ thống xử lý rác thải, cũng chưa có thùng rác công cộng, ý thức bảo vệ môi trường nhìn chung còn kém (cũng giống như phần đông người dân Việt Nam các vùng khác), hi vọng các bạn tới Lý Sơn hạn chế xả rác bừa bãi hoặc vứt rác xuống biển gây ô nhiễm.	0
+95	Phòng standard quá nhỏ. Phòng tắm chật. Buổi tối hơi ồn	0
+96	Không có điều hòa ấm, mùa đông siêu lạnh; đồ dùng, trang thiết bị cũ.	0
+97	Nói về Phở Hà Nội thì còn nhiều, có hàng mới, hàng cũ, hàng đã đi vào dĩ vàng. Mới và hào nhoáng mát lạnh có Phở 24. Đôi lúc dối lòng thì cũng tạm khen là được....	0
+98	Các khu du lịch và nghỉ dưỡng rất đông người	0
+99	Chính quyền sở tại chưa quan tâm trong vấn đề phát triển chung của du lịch tuyến đảo, chưa biết quảng bá giới thiệu đến khách hàng những cảnh quan mà thiên nhiên ưu đãi cho khu này, chưa có biển chỉ dẫn, chưa có sách hướng dẫn thăm quan...	0
+100	"- Đảo rất hoang sơ nên ở những khách sạn bình dân, dịch vụ tiện ích rất kém : wifi 1 vạch, tivi chỉ có duy nhất kênh VTV1,...
+                  - Rất ít đèn đường, đến đêm là tối om, thật tiếc cho những ai thích đi dạo biển , mua đồ lưu niệm.
+                  - 1 số đoạn dốc bị lở cát, xe túc túc đi lên đó như đang chơi trò mạo hiểm thót tim."	0
+101	Mình không hề có ý định sẽ quay lại đây một lần nào nữa.	0
+102	Không có resort chất lượng cao	0
+103	Thời thiết khá nắng nóng	0
+104	Đến mùa mưa thì mưa hơi nhiều	0
+105	Biển không đẹp lắm. 	0
+106	Biển chưa đẹp lắm	0
+107	Tiện nghi phòng cũ kỹ.	0
+108	View ra biển không được nhiều lắm, ăn sáng chưa ngon.	0
+109	Điểm không thích là phải di chuyển từ TP Hồ Chí Minh bằng oto mất khoảng 1,5-2 giờ. Không nhiều đồ lưu niệm. Ít địa điểm để du khách có thể khám phá những điểm mới lạ, lịch sử.	0
+110	Thang máy nhỏ, cũ, hành lang hơi thiếu sáng. 	0
+111	Chưa xứng tầm resort	0
+112	Cách bài trí sắp xếp không được thân thiện và đẹp lắm, đi xem hơi lòng vòng	0
+113	 Hơi biệt lập, ít nhà hàng quanh Resort	0
+114	Chỉ để chụp ảnh cưới thui các bạn ạ.	0
+115	Đi máy bay ATR từ tp HCM ra Phú Quốc hôm nào gió mạnh cũng hơi sợ	0
+116	Trên đường lên động khô có rất nhiều sâu và những con linh tinh	0
+117	Dịch vụ chưa tốt. Nội thất chưa đẹp	0
+118	Phòng hơi cũ	0
+119	Phòng ở không rộng rãi 	0
+120	30 ngàn một dĩa bánh cuốn nhỏ quá. 	0
+121	Góc nhìn không đẹp bằng Khao Phra Tamnak.	0
+122	Không có bể bơi	0
+123	Phòng hơi nhỏ, dịch vụ wifi còn yếu	0
+124	Giá hơi cao	0
+125	Hơi nóng	0
+126	 Thiết bị cũ	0
+127	Đương đèo này rất nguy hiểm	0
+128	Trong khu Thung Nham có phòng cho thuê nhưng giá khá đắt. 	0
+129	 Có phần kính từ nhà tắm nhìn ra phòng ngủ là chưa ổn lắm, thiếu tính riêng tư khi vệ sinh tắm rửa.	0
+130	 Không có view ra biển.	0
+131	Món bún hải sản hơi mặn, tôm và bề bề không được tươi ngon.	0
+132	Thi thoảng vẫn còn thấy người bán hàng rong chèo kéo khách.	0
+133	Do khách đông nên phục vụ không được chu đáo.	0
+134	Giá khá đắt	0
+135	Chỗ để xe không tiện.	0
+136	Đồ ăn để lộ thiên, ko được che đậy	0
+137	Đồ uống quá bình thường, giá cao	0
+138	Chất lượng món ăn không có gì đặc biệt; giá cũng chẳng rẻ.	0
+139	Phục vụ hơi chậm và thiếu chuyên nghiệp	0
+140	Đông người nên cần phải để ý túi xách, ba lô cần thận vì rất dễ có thể bị mất trộm. 	0
+141	Không gian nhếch nhác, các pho tượng không được lau rửa sạch sẽ....	0
+142	Nói chung trải nghiệm chưa đặc sắc	0
+143	Chờ lâu, thái độ phục vụ chưa tốt, không gian quá tối và hẹp.	0
+144	Ăn vào buổi trưa hè hơi nóng quá. 	0
+145	"- Nền nhà tắm trơn, bạn bé bị ngã 1 phát khá là đau.
+              - Nhà mình đi vào dịp nghỉ lễ nên dịch vụ giặt ủi cũng nghỉ lễ theo, đành phải mang 1 balo quần áo bẩn về nhà mới giặt được."	0
+146	Không có	0
+147	Từ khách sạn ra bờ biển khoảng 200 -300m tôi thấy như vậy là xa	0
+148	Khu chợ đêm hơi nhỏ. Giá taxi cao. 	0
+149	  Đường đi phải leo trèo nhiều nên khá mệt.	0
+150	Đồ ăn và mọi thứ mặt hàng bán hơi đắt , xe ôm cũng đắt	0
+151	 Không có bể bơi	0
+152	Ăn sáng còn đơn sơ không ngon lắm.	0
+153	Vị trí hơi xa trung tâm	0
+154	Buổi tối muốn tìm hoạt động gì đó khá khó	0
+155	Xa biển và xa trung tâm	0
+156	"Gần khu rừng thông Bản Áng có nhiều nhà sàn để trọ nhưng không có quán ăn. Phải thuê xe ra trung tâm tầm 3km. 
+                                              
+                                              Vì Mộc Châu là chặng giữa nên nếu đi bằng xe khách thì có thể sẽ phải chờ đợi ở bến xe do giờ giấc các xe thường rất dây thun.
+                                              
+                                              "	0
+157	Giá hơi cao hơn so với bình dân một chút.	0
+158	Bãi biển không đẹp.	0
+159	Buổi tối tôi thấy thường đóng cửa sớm.	0
+160	Dịch vụ vẫn chưa phát triển lắm	0
+161	Chiều nào cũng mưa tầm tã; 1 vài hàng bánh ở Chợ Đêm còn có tình trạng ép giá khách.	0
+162	Dịch vụ chưa tốt như ở Đà nẵng, chưa phát triển mạnh được về du lịch văn hóa vùng miền. Nếu khắc phục được 1 số hạn chế này thì du lịch tại Huế sẽ rất phát triển.	0
+163	Giá hơi cao: xôi thập cẩm 50k, xôi gà 40k; chỗ để xe hơi chật 	0
+164	Giá cả đắt đỏ	0
+165	Buổi đêm hơi buồn, nhiều muỗi vào mùa mưa, hay mưa nhiều vào tháng 6.7 thường tháng hè, nên dẫn theo trẻ con là điều khá khó , giá vé máy bay bay ra còn cao 	0
+166	Dịch vụ du lịch chưa tốt , vấn nạn cò kéo khách vẫn tồn tại nhiều	0
+167	 Để tới được thác phải đi qua một quãng đường tương đối dài	0
+168	Ko còn nét hoang sơ của bản Cát cát. Chỉ thấy hàng quán, hàng quán và hàng quán. Không khí bị du lịch hóa, các cháu bán hàng vẫn đeo bám mời chào mua hàng	0
+169	Các chỉ dẫn ở đây chưa tốt nên khách hay phải hỏi đường đi.	0
+170	Ở đây rất ít chỗ vui chơi và hầu hết tất cả mọi người đi ngủ rất sớm nên từ khoảng 9h là đường phố đã vắng bóng người rồi.	0
+171	Với những người không biết nhiều tên các ngôi sao thì thật khó để biết đó là dấu tay của ai.	0
+172	không.	0
+173	 Đi vào ban ngày trời rất nắng.	0
+174	Mỗi điểm chúng tôi đến đều có người dân ở đó xin thêm tiền, gây cảm giác khó chịu cho du khách	0
+175	Cơ sở hạ tầng ở đây quả là quá tệ hại	0
+176	Mua sắm ở các quầy hàng phải mặc cả, nếu không sẽ bị nói thách giá khá cao. Ngoài ra vẫn còn nạn chèo kéo khách ở một số điểm du lịch (Vd: Đền Besakih,..)	0
+177	Đi xe Tuk Tuk phải biết mặc cả, nếu không sẽ bị đắt hơn cả taxi. Tài xế xe tuk tuk và taxi đi nhanh và tổ lái lắm ! Hơi sợ! Bangkok chiều đến là tắc đường khủng khiếp!	0
+178	Các suối và đường lên còn nhiều rác	0
+179	Nhân viên không hề biết nở nụ cười chào đón khách, không phải một ks 4sao chỉ 2-3sao thôi	0
+180	Nước không trong, cát xám đen đen.  Buổi chiều tối khi triều lên thì bãi biển gần biến mất. Nếu đến Hua Hin vì bãi biển thì chắc sẽ thất vọng	0
+181	Cảnh cũng không quá đẹp	0
+182	"- Nếu vào nhà hàng, quán ăn đã niêm yết thì bạn hãy cứ yên tâm thưởng thức, còn nếu ăn ở các quán vỉa hè bạn nên hỏi giá trước. 
+                   - Bạn cần cẩn thận với điện thoại, máy ảnh hay đồ dùng cá nhân khi đi trên vỉa hè nếu sơ ý ở nơi đông người bạn dễ bị các đối tượng để ý đấy.
+                   - Giao thông Hà Nội hơi lộn xộn và đông đúc, bạn nên cẩn thận khi sang đường.
+                    - Nếu cần phải ở lại khách sạn nhà nghỉ bạn nên đặt phòng trước và tránh những Khách sạn, nhà nghỉ bên khu đường Hồng Hà và khu Gia Lâm nhé."	0
+183	Nhiều trẻ con đi theo xin tiền, xin bánh kẹo	0
+184	Không cách âm tốt, không có bể bơi.	0
+185	 Show không được như quảng cáo về độ hoành tráng, so với giá 30-40 USD thì đắt	0
+186	"Bụi bặm, tắc đường, nóng bức (mùa hè). Thái độ phục vụ, dịch vụ nói chung chưa ổn, có lẽ nó là đặc tính vùng miền, là tính cách - nhưng cứ đi mua, đi ăn mà gặp mấy bộ mặt lạnh như đít bom là đôi khi thấy tình yêu HN giảm đi kha khá :D
+                  
+                  "	0
+187	Tôi không thấy đặc sắc lắm. Có nhiều cửa hàng nhưng sản phẩm của hàng nào cũng tương tự nhau	0
+188	Hầu hết khách là người nước ngoài, tuy nhiên chỉ có phần giới thiệu là bằng tiếng Anh và một vài ngôn ngữ khác được thu sẵn, toàn bộ vở diễn sau đó, lời thoại đều bằng tiếng Việt.	0
+189	"- Một số người bán hàng ( chỉ một số thôi ) rất đeo bám khách du lịch. Gây khó chịu, phiền phức
+                                              - Theo một số người bạn tôi nói, họ còn gặp trẻ em ăn xin..nhưng chuyến đi của tôi thì không bắt gặp
+                                              "	0
+190	Hét giá trên trời, nếu không dám mặc cả thì phải mua với giá đội gấp đôi mất	0
+191	Điều du khách cần lưu ý khi đến Huế đó là nên biết mặc cả một chút, những người bán hàng hay chở xích lô rất thân thiện và tận tình tuy nhiên họ cũng thường ra giá cao. Và đừng nổi nóng nếu có chiếc xích lô nào đó cứ theo du khách và mời đi xích lô, hãy lịch sự từ chối nhã nhặn với họ, họ sẽ luôn có mặt nếu du khách cần.	0
+192	Đi Tam Cốc vẫn còn có cảnh đánh bắt cá trên suối, giá tham quan cao. Đi chùa Bái Đính thì quả là kinh hoàng về sự hoành tráng. Nó phá vỡ hoàn toàn kiến trúc vốn có sẵn ở Ninh Bình	0
+193	Mới tạo dựng nên không có nét cổ kính	0
+194	Vị trí không thuận tiện cho khách nước ngoài vì nó chẳng gần khu du lịch nghỉ dưỡng nào	0
+195	 Quy hoạch tản mát, không biết đi tham quan như thế nào	0
+196	Không còn nguyên sơ như các bản làng trên khu vực Tây Bắc	0
+197	Ồn ào chật chội, bị làm phiền bởi rất nhiều nhân viên quán bar chạy ra mời chào	0
+198	Giao thông đông đúc, tắc đường là điều không tránh khỏi ở Bangkok	0
+199	Giá phòng 2,5M cho 1 phòng 3 người, 4 người là 3.2M là một cái giá tương đối là trên trời	0
+200	Đồ đạc cũ, sàn nhà rất bẩn.	0
+201	Giá vé khá đắt	0
+202	- Không có nhiều điểm vui chơi giải trí nên khá buồn.	0
+203	Nhân viên phục vụ không nhiệt tình; với cái giá 40k với 50k một bát thì mình cho là đắt và không đáng.	0
+204	Thời gian tham quan trên đảo ít, phòng trưng bày đơn giản quá. Chỗ tắm rửa thay quần áo sau khi xem san hô về thì bẩn quá	0
+205	 Phục vụ không thân thiện cho lắm 	0
+206	Di chuyển lâu và xa. Phụ thuộc vào thời tiết.	0
+207	Dịch vụ ở Mẫu Sơn chưa phát triển nếu ko muốn nói là tồi	0
+208	Nhân viên không nhiệt tình cho lắm. 	0
+209	Còn cảnh chặt chém khách du lịch :)	0
+210	Quanh villa cũng không có hàng quán. Muốn đi ăn, đi ra biển hay vào phố cổ thì phải đi xe. 	0
+211	Vào giờ sáng hơi đông	0
+212	 Nếu bảo Emeralda đã thật sự là khu nghỉ dưỡng xứng tầm quốc tế và 5 sao chưa thì mình vẫn thấy lăn tăn. Tầm 4 sao đổ lại thì được vì một số thiếu hụt về dịch vụ vui chơi, giải trí tại chỗ	0
+213	Biển khó tắm vì nước nhìn lúc nào cũng đục	0
+214	Phòng ở và dịch vụ ok nhưng mình nghĩ không đạt chuẩn khách sạn 4*	0
+215	Nhân viên không được đào tạo chuyên sâu về kỹ năng chăm sóc khách hàng, có thái độ không mấy tích cực chào đón khách	0
+216	Sẽ vất vả cho bạn nào chọn đi lên đây bằng ô tô nhưng bị say xe	0
+217	Cổng và lối vào khá nhỏ, không để ý sẽ dễ dàng bỏ qua	0
+218	Không có gì đặc sắc.	0
+219	Kiến trúc không thực sự bắt mắt.	0
+220	Khách sạn nằm trên trục đường highway 6, cách trung tâm Siem Reap khoảng 2km. Vì vậy muốn vào phố đi bộ pub street, khu chợ đêm thì phải đi xe tuktuk.	0
+221	"Cái gì cũng ""hoàn hảo"" mỗi tội cái túi xèng nó chả hoàn hảo chút nào. Giá cắt cổ đấy các bác ạ (cơ mà cũng xứng đáng, em nói vậy cho oai thôi chứ chả qua em đc mời nên em mới to còi thế, ko thì thăm quan thôi em cũng chả vào ý chứ). "	0
+222	Sau 9h tối xe máy được đi vào phố cổ	0
+223	Bậc thang lên các tầng hẹp và dốc nên phụ nữ có vẻ hơi sợ khi đi xuống.	0
+224	Ít điểm vui chơi giải trí hiện đại (cái Indochina Plaza hơi nhỏ)	0
+225	Chợ đêm nhưng không bán suốt đêm, tầm 22h30 là dẹp hàng rồi. Cung cách phục vụ của nhiều tài xế taxi không tốt, khách đi gần là tỏ thái độ khó chịu. Ăn uống các gánh hàng rong ngoài chợ đêm hay bị trật tự đô thị đuổi.	0
+226	Nhà nước cần quan tâm hơn cho giao thông và cuộc sống của những người dân nơi đây. Các bạn, những ai đọc được chia sẻ này xin hãy dùng tiếng nói của mình trong khả năng có thể để giúp Hà Giang là điểm đến tuyệt vời cho tất cả chúng ta, những con người yêu thiên nhiên, yêu du lịch.	0
+227	Đồ hơi cũ, bể bơi không rộng lắm 	0
+228	Nhiều chỗ leo trèo khá nguy hiểm cho trẻ em, không có nhiều khu vệ sinh công cộng	0
+229	Cơm hơi cứng, rời rạc (hay là kiểu của cơm như vậy), màu sắc nhạt, không kích thích vị giác, gà chiên hơi ngấy	0
+230	Thời tiết thường luôn nắng nóng	0
+231	Ở Nam Du không có nhiều hoạt động vui chơi giải trí.	0
+232	Chợ không rộng mấy, vì là làng gốm nên trong chợ chỉ toàn đồ gốm thôi, chả có gì khác	0
+233	Hơi xa trung tâm, phải đi taxi	0
+234	Chất lượng dịch vụ ngủ nghỉ chưa được tốt, điểm vui chơi còn ít	0
+235	Không có điểm nào để chê	0
+236	Vào ban đêm, hàng chục quán bar và câu lạc bộ thoát y thu hút đám đông người lớn.	0
+237	Khu này an ninh hơi ngặt nghèo chút, bạn nghé thăm ng quen ở trỏng sẽ phải xuất trình cmtnd, rồi đợi bảo vệ gọi đt vào xác nhận với ng quen của bạn, đc ng quen đồng ý thì sẽ đc ngồi xe điện và họ đưa vô tận cửa nhà nhé (hơi mất time một xíu à) 	0
+238	Không có	0
+239	Hạ Long bị du lịch hóa quá; ngoài thiên nhiên thì thiếu các hoạt động  giải trí	0
+240	Khách sạn phòng rất bẩn. Service kém. Mình ở vừa rồi khách sạn k có dép đi trong nhà, k có khăn mặt cho khách. 3 ngày nghỉ khách sạn k đổ rác	0
+241	Đắt đỏ	0
+242	Cabin đẹp nhưng hơi nhỏ	0
+243	Chưa đa dạng	0
+244	Đường sá còn nhiều nơi đường xấu. Ít điểm vui chơi giải trí, chủ yếu tham quan nghỉ dưỡng. Đi máy bay bất tiện khi mua nước mắm và hải sản mang về.	0
+245	Đã bắt đầu ô nhiễm, quy hoạch lộn xộn	0
+246	Trời hơi nắng nóng nếu các bạn đi vào mùa hè, tiếng địa phương hơi nặng khó nghe chút	0
+247	Chưa nhiều hoạt động ngoài tắm biển.	0
+248	Thiếu nước ngọt.	0
+249	Ngược đường ra sân bay Cam Ranh nên không tiện bằng khu Trăm Trứng	0
+250	Chưa nhiều hoạt động vào buổi tối. 	0
+251	Mọi người lên có kế hoạch rõ ràng những hoạt động , những nơi sẽ và tìm hiểu từ trước như vậy sẽ có một chuyến đi thuận lợi hơn.	0
+252	Xây dựng không hợp lý, nặng nề, tối. Bể bơi không đẹp.	0
+253	Không có gì phàn nàn	0
+254	Xe xích lo đưa đến điểm để kiếm tiền hoa hồng, nói xấu lẫn nhau để đưa đến điểm của mình. 	0
+255	Cẩn thân khi đi chợ đêm, có thể bị giọng ngọt lùi của họ làm cho thất vọng :D	0
+256	Mưa nhiều	0
+257	Tôi thấy bãi tắm ở đây không đẹp lắm	0
+258	Không có gì đặc biệt lắm	0
+259	Có 1 hang động để vào khám phá tuy nhiên bẩn lắm, ko có gì đặc biệt, ko đẹp bằng nhiều hang động của các khu du lịch khác	0
+260	"Nước dùng thì chỉ thấy vị mặn , không vị gì khác.
+Giá cho 2 bát bề bề bún là 90k, không quá đắt nhưng chất lượng phải nói là quá tệ. Bát bún tệ nhất em từng ăn. Mong mọi người cảnh giác bản thân và bạn bè."	0
+261	"Nước dùng thì chỉ thấy vị mặn , không vị gì khác.
+Giá cho 2 bát bề bề bún là 90k, không quá đắt nhưng chất lượng phải nói là quá tệ. Bát bún tệ nhất em từng ăn. Mong mọi người cảnh giác bản thân và bạn bè."	0
+262	"Nước dùng thì chỉ thấy vị mặn , không vị gì khác.
+Giá cho 2 bát bề bề bún là 90k, không quá đắt nhưng chất lượng phải nói là quá tệ. Bát bún tệ nhất em từng ăn. Mong mọi người cảnh giác bản thân và bạn bè."	0
+263	Đường lên chùa hai bên cầu thang các hộ gia đình nuôi gà - chúng phóng uế mùi thật khó chịu 	0
+264	Người già yếu không nên đi.	0
+265	 Trên đò không có áo phao. 	0
+266	Sự đeo bám cũng như vài trò lừa gạt của nhiều người bán hàng, cò đò	0
+267	Giá cả khá đắt, bị chặt chém nhiều, thái độ nhân viên, người bán hàng rất khó chịu	0
+268	Trâu thả lung tung nên thỉnh thoảng gặp hậu quả của chúng nó sau khi đi vệ sinh trông khá mất mỹ quan.	0
+269	Quán ở trong nhà nên hơi bí, mặc dù có máy hút khói nhưng vấn hơi ngột ngạt.	0
+270	Mùa mưa, mùa đông trời nhiều mây không có năng ra Vịnh không đẹp.	0
+271	Hong Kong có điểm nào mà làm mình không hài lòng? Câu trả lời là không vì cá nhân mình đánh giá đây là một đất nước, một điểm đến không thể chê vào đâu được.	0
+272	Giá cả tương đối đắt so với mặt bằng chung các nhà hàng cùng loại ở Mũi Né. 	0
+273	Với mình Phú Quốc không có điểm gì làm mình không thích.	0
+274	Món xôi trắng hơi chán.	0
+275	"Khách du lịch xả rác, phát kẹo, cho tiền trẻ em bừa bãi, làm hư dân bản địa. Mang theo các thói xấu của đồng bằng lên rất nhiều. Nếu ồ ạt du khách đi kiểu tour và ""phượt phong trào"" thì sự tĩnh lặng của thiên nhiên nơi này sẽ bị phá hoại bằng sạch"	0
+276	Không đẹp. Đi tắm phải băng qua đường.	0
+277	Hà Nội của chúng ta đẹp là thế, thú vị là thế, nhưng những điều chưa thực sự đẹp về Hà Nội không hẳn là không có, và đây chải chăng cũng là những điều khiến cho Hà Nội trở nên bớt quyến rũ hơn, bớt thân thiện hơn: đó là thỉnh thoảng đâu đó trên đường phố chúng ta bắt gặp cảnh người dân tùy tiện đứng vào một bờ tường hay một gốc cây để thoải mái phóng uế, tiểu tiện hoặc thậm chí là đi đại tiện ngay tại chỗ; đó là những lúc chúng ta được lắng nghe những trận to tiếng, cãi nhau với đủ những ngôn từ thô thiển nhất được bung ra; hoặc cũng có thể là những lúc chúng ta chạy xe trên đường phố, bắt gặp cảnh chen lấn, lạng lách, tạt đầu đến thót tim; đơn giản hơn, chúng ta thỉnh thoảng có thể bắt gặp đâu đó một bác xe ôm hoặc một anh lái taxi chặt chém du khách ngoại tỉnh, cũng có thể phải thanh toán những hóa đơn với mức giá không hề thân thiện nếu như chúng ta không thỏa thuận trước.... và còn nhiều, còn nhiều điều chưa thực sự đẹp nữa mà ai có dịp lưu trú dài ngày thì mới có thể nhìn nhận rõ nhất. Nhưng có lẽ đó cũng chỉ là những mặt trái rất không đáng có mà chúng ta có thể cái thiện được hiện còn tồn tại nơi thành phố thân yêu này.	0
+278	Vào mùa mưa bạn sẽ cảm thấy vô cùng khó chịu với lượng mưa lớn và kéo dài đến cả ngày gây khó khăn cho việc đi lại và tạo cảm giác buồn ngủ.	0
+279	"Đây là lịch trình của em đi theo gia đình nhỏ, nên khá tiện, nhưng nếu đi theo đoàn lớn, 4-5 gia đình trở lên thì các mẹ tránh giờ các điểm ra nhé, em có đọc được 1 ý kiến của 1 chị như sau:
+                                          Hè vừa rồi chị đã cho học sinh đi rồi. Kinh nghiệm là không bao giờ quay lại Detrang Farm. Đầu tiên là khiếp đảm xếp hàng mua vé vào cửa, quấn cái thẻ ở tay từng hs. Dù mua khách đoàn rồi cũng không thoát cửa ải này. Làm việc thiếu chuyên nghiệp nên mất đến nửa tiếng. Dù không bẩn nhưng chăn nuôi là chính nên rất hôi, hôi mùi chuồng trại. Cả khu lại quá rộng và ít cây bóng râm, chủ yếu toàn cây trồng thấp. Các loại hình nuôi trồng này thì quanh HN có nhiều, nên những con vật nuôi kiểu này không có gì là thú vị và hấp dẫn với học sinh. Có gà, chim, bò, đà điểu để đi thăm. Chuồng ngựa thì mỗi học sinh được trèo lên cưỡi. Chuồng dê thì họ thả 2 con dê cho hs bịt mắt bắt dê, nhìn con dê run lẩy bẩy ở góc rất tội nghiệp. Bãi đất rộng để teambuilding thì trơ đất, không có cây, ngay đằng trước chòi nghỉ. Chỗ nghỉ cũng không phải dạng nhà sàn, mà là nhà đất dựng lên, chia nhau các phòng giữa các trường bằng tấm liếp. Khu đất nặn và bể vầy bị xi măng hóa nhiều. Nếu chỉ trải nghiệm vài cái hoạt động này, thêm cả nặn bánh trôi (phải đi bộ rất xa mới đến được)... thì không nên đi Detrang Farm. Để so sánh về dịch vụ tương đồng thì nó kém Erahouse Farm rất nhiều. Còn khám phá vườn ao chuồng thì mô hình Ba Vì Homestead hay hơn, tây hơn rất nhiều"	0
+280	"Quán hải sản tính giá cao mà ko ngon- đặc biệt là quán tên Bờ Kè. Ko nên ăn ở đây.
+                                              Có người bạn ở Nha Trang tư vấn ăn Hải Sản ở số 2- Ngô Sỹ Liên ngon và rẻ nhưng mình qua ko còn chỗ ngồi. 
+                                              Vào Vinpearl giá vé đắt mà ko có gì đặc biệt. Người già và trẻ em thì ko nên vào, chỉ dành cho thanh niên vào chơi các trò mạo hiểm."	0
+281	Chuyến đi rất tuyệt, không có điểm gì phải phiền trách	0
+282	Thái độ phục vụ không xứng đáng là một resort	0
+283	Phải cẩn thận khi chụp ảnh vì khỉ có thể giật điện thoại của bạn	0
+284	Vào đợt hè rất đông nên tắm biển không được thoải mái cho lắm	0
+285	Đầu tư khá là sơ sài, bãi giữ xe, quày bán vé, tiệm bán đồ lưu niệm, nhìn chung rất là đơn giãn không như những khu du lịch khác ở đà lạt	0
+286	Trời mưa rất khó đi	0
+287	Bớt vẻ hoang sơ	0
+288	Đường khá bụi bặm, bãi biển nhiều rác	0
+289	Ồn ã, giao thông là những nỗi lo đáng để ý nhất. Cuối năm ai cũng chạy đua nào là đi sêu, đi biếu quà...	0
+290	Dịch vụ du lịch còn chưa phát triển 	0
+291	 Dịch vụ khá thô sơ, chưa có sự đầu tư lớn vào du lịch ở đây	0
+292	Đường dài và dốc nên hơi vất vả	0
+293	Đêm Hội An đóng cửa khá sớm	0
+294	Cung đường không dành cho những người không di được đường dài và đèo núi	0
+295	Khi muốn ăn gì đó ở ngoài thì phải đi hơi xa vì chung quanh không có nhiều quán.	0
+296	Hiện nay đã đổ nát hơn	0
+297	Đi lại bất tiện do nằm khá xa khu trung tâm phố cổ Hà nội.	0
+298	Đồ uống ở đây tôi không ấn tượng lắm	0
+299	Chỗ bến tàu chưa sạch sẽ lắm. 	0
+300	Xô bồ, đông đúc và không sạch sẽ cho lắm	0
+301	Chưa được trang bị thiết bị bảo hộ, cứu nạn và phương tiện chiếu sáng	0
+302	"1. Hạ tầng: đã tốt hơn những năm trước nhưng vẫn còn quá nhiều cung đường chưa thực sự an toàn để du lịch 
+                                              2. Chưa có quy hoạch du lịch rõ ràng: Ở Tiền Giang vẫn mua được Cam, Bưởi Năm roi, Chôm Chôm Vĩnh Long - hay Xoài cát Hoà Lộc
+                                              - Điểm yếu chung lớn nhất của du lịch Đồng Bằng Sông Cửu Long. Dù năm nào hội thảo về việc phát triển du lịch Miền Tây - Đồng bằng Nam Bộ việc này cũng đều đưa ra nhưng chưa có một ai trả lời thoả đáng các doanh nghiệp lữ hành. "	0
+303	Việc phải đi bộ 300-400m mới ra được tới biển thực sự là một cực hình hàng ngày	0
+304	Khách sạn xây dựng đã lâu, không được cải tạo tốt	0
+305	"Điểm yếu nhất ở khu này là tiện nghi. Mình có cảm giác là nơi đây giống như 1 trang trại đồng quê chứ không phải tầm cỡ resort. Mọi trang thiết bị, cơ sở vật chất hoàn toàn l1à diện biệt thự/trang trại quê chứ không có cảm giác gì ""long lanh :)"	0
+306	Hơi xa trung tâm, không có lễ tân trực bàn thường xuyên	0
+307	Nhà vệ sinh quá bẩn, không nên ngồi bàn phía ngoài vì quá gần đường cao tốc, rất bụi bặm.	0
+308	Cafe dở, nhân viên ít cười.	0
+309	Giá taxi hơi cao.	0
+310	"- Ngõ vào nhỏ quá.
+              - Rất không thích hợp khi đến vào trời mưa. Bàn mình và một số bàn bên cạnh hôm đó ngồi một lúc thì trời đổ mưa, chạy tan tác vào bên trong để đứng chờ nhân viên xếp cho chỗ mới. Nhưng quán đông mà, đâu có dễ. Đến lúc có chỗ rồi, thì nhìn xuống nền nhà, nước chảy lênh láng, cảm giác không sạch cứ bị ám ảnh."	0
+311	Mùa khô thác chỉ còn là dòng nước nhỏ xíu không có gì để xem	0
+312	Bạn nào không quen đeo ống thở có thể bị say. Nếu xịn thì thuê bộ người nhái, bình oxy để lặn sâu.	0
+313	"- Không nên tận dụng chút khoảng trống bên bậu cửa để làm thành bàn cho khách ngồi. Lãng mạn thì có lãng mạn, nhưng chả chắc chắn gì cả.
+              - Nhà hàng nằm ở đầu phố hay tắc đường, nên nếu gia đình đi ô tô đến có thể sẽ bất tiện chút ít khi tìm chỗ đỗ xe."	0
+314	Vào động phải leo lên mấy trăm bậc đá 	0
+315	- Cho trẻ con đi cùng phải hết sức chú ý. Mình thấy lan can trên các tầng thưa lắm, nên không yên tâm cho bọn trẻ ra ngó nghiêng xuống dưới.	0
+316	Cũ, phần trưng bày trong nhà không đẹp, không nhiều cá	0
+317	Khu này chưa được quy hoạch, các dịch vụ cũng chưa có gì.	0
+318	Vé cáp treo đắt quá	0
+319	Từ bãi gửi xe đến chỗ mua vé đi khá phức tạp vì không có bảng hướng dẫn. Giá vé khá đắt.	0
+320	Dịch vụ hơi hoang sơ	0
+321	Đi bộ hơi xa bãi biển và không nằm trong trung tâm thành phố.	0
+322	"Giao thông ở Hà Nội là thứ điên khùng và kinh dị nhất trên đời, tắc đường liên miên, còi xe inh ỏi, thi thoảng lại có dăm ba nhoc choai choai đầu xanh đầu đỏ vượt đèn đỏ, phóng vèo vèo như đua xe công thức một khiến mình tái mặt. Hồi mới lên đây, mình sợ chết khiếp, giờ hơi quen rồi nhưng nhiều lúc vẫn nghĩ thầm: ""Giao thông thế này, chả biết mình thọ đến bao giờ""
+                                    
+                                    Phong cảnh Hà Nội đẹp, nhưng buồn là nhiều người lại không có ý thức giữ gìn cảnh đẹp ấy. Lấy ví dụ, có nhiều công viên rất đẹp nhưng chả hiểu người ta nghĩ sao mà tập kết xe rác ở đó, có ai thích vừa tản bộ, ngắm hoa vừa hít mùi rác không, hả?
+                                    
+                                    Còn nữa, mua hàng ở Hà Nội lúc họ vừa mở cửa thì lúc nào cũng phải dè dặt, vì họ rất kiêng kỵ ""dớp"" lằng nhằng mà không mua thì dễ ăn mắng và có khi họ còn đốt vía, đuổi mình như đuổi tà ấy."	0
+323	- Dịch vụ vẫn còn nhỏ lẻ và chưa thực sự chuyên nghiệp, không có tư vấn đầy đủ của các đơn vị du lịch, bạn vẫn có thể bị chặt chém như thường hoặc không biết chỗ vui chơi nếu không có người dẫn đường đấy nhé!	0
+324	Dịch vụ chưa xứng với tiêu chuẩn 5 star, khu ăn sáng hơi nhỏ so với lượng khách.	0
+325	Theo cảm nhận riêng mình, thì nơi đây có vẻ hơi buồn về ban ngày.	0
+326	"Đây là lịch trình của em đi theo gia đình nhỏ, nên khá tiện, nhưng nếu đi theo đoàn lớn, 4-5 gia đình trở lên thì các mẹ tránh giờ các điểm ra nhé, em có đọc được 1 ý kiến của 1 chị như sau:
+                                          Hè vừa rồi chị đã cho học sinh đi rồi. Kinh nghiệm là không bao giờ quay lại Detrang Farm. Đầu tiên là khiếp đảm xếp hàng mua vé vào cửa, quấn cái thẻ ở tay từng hs. Dù mua khách đoàn rồi cũng không thoát cửa ải này. Làm việc thiếu chuyên nghiệp nên mất đến nửa tiếng. Dù không bẩn nhưng chăn nuôi là chính nên rất hôi, hôi mùi chuồng trại. Cả khu lại quá rộng và ít cây bóng râm, chủ yếu toàn cây trồng thấp. Các loại hình nuôi trồng này thì quanh HN có nhiều, nên những con vật nuôi kiểu này không có gì là thú vị và hấp dẫn với học sinh. Có gà, chim, bò, đà điểu để đi thăm. Chuồng ngựa thì mỗi học sinh được trèo lên cưỡi. Chuồng dê thì họ thả 2 con dê cho hs bịt mắt bắt dê, nhìn con dê run lẩy bẩy ở góc rất tội nghiệp. Bãi đất rộng để teambuilding thì trơ đất, không có cây, ngay đằng trước chòi nghỉ. Chỗ nghỉ cũng không phải dạng nhà sàn, mà là nhà đất dựng lên, chia nhau các phòng giữa các trường bằng tấm liếp. Khu đất nặn và bể vầy bị xi măng hóa nhiều. Nếu chỉ trải nghiệm vài cái hoạt động này, thêm cả nặn bánh trôi (phải đi bộ rất xa mới đến được)... thì không nên đi Detrang Farm. Để so sánh về dịch vụ tương đồng thì nó kém Erahouse Farm rất nhiều. Còn khám phá vườn ao chuồng thì mô hình Ba Vì Homestead hay hơn, tây hơn rất nhiều"	0
+327	Đường vào đang làm (Tháng 11/2016) nên khá xóc. Dịch vụ chưa nhiều và chưa chuyên nghiệp nên có lẽ nên đặt qua công ty du lịch tại Nam Định.	0
+328	Về vui chơi, ở ĐN không tích hợp nhiều loại dịch vụ, có thể đi 1 đêm Bà Nà hay Hội An.	0
+329	"Nước dùng thì chỉ thấy vị mặn , không vị gì khác.
+                            Giá cho 2 bát bề bề bún là 90k, không quá đắt nhưng chất lượng phải nói là quá tệ. Bát bún tệ nhất em từng ăn. Mong mọi người cảnh giác bản thân và bạn bè."	0
+330	Chưa đi thì nên đi cho biết nhưng không phải là điểm có thể quay lại nhiều lần. Thành phố thì hơi nóng, chật chội, ồn ào. Tắm biển phải ra đảo hoặc tìm các resort xa xa. Có rất nhiều điểm tham quan ở quanh Pattaya nhưng phần lớn là từ công nghệ du lịch chứ không phải các điểm tự nhiên.	0
+331	Nếu tới muộn thì đồ ăn sẽ nguội	0
+332	Chưa đủ rộng, tiện nghi và khung cảnh để là một khu resort thực sự đúng nghĩa.	0
+333	Thời tiết nóng. Không khí không sạch lắm (tương tự như ở Việt Nam). Và dở nhất là hệ thống giao thông công cộng, hầu như không có taxi, bus...	0
+334	Nếu đi vào mùa mưa thì hơi bùn nha vì đi thuyền trên sông mà mùa mưa thì không thể ngắm cảnh mà lại rất lạnh	0
+335	Mùa đông có nhiều lúc trời quá lạnh và có sương mù.	0
+336	Đi xe bus từ Hà Nội đến một số chùa ở Bắc Ninh ko được tiện lắm, có thể phải đi 2-3 chuyến. Mình thường đi xe máy.	0
+337	Phải di chuyển từ Huế hoặc Đà Nẵng vào, nếu đi xe ô tô khách thì hơi nóng và mệt nếu gặp xe đông. 	0
+338	Điều làm mình thấy không thích lịch hoạt động của các tàu ra vào đảo, thường hay trễ giờ, phương tiện vẫn còn thô sơ và chưa có tính an toàn cao. Dịch vụ nhà hàng, khách sạn thì hơi đắt đỏ 1chút.	0
+339	Buổi chiều nóng, khí hậu nhiệt độ có lẽ giống Tp Hồ Chí Minh	0
+340	Thời tiết ở đây nóng lắm, dễ gây mệt cho trẻ nhỏ.	0
+341	Hội An đối với tôi ko có điều gì không thích :)	0
+342	Do không phải mùa lễ hội nên không có sẵn các dịch vụ. Bạn có thể phải chuẩn bị sẵn đồ ăn cho mình hoặc đặt trước nhà hàng trong làng để chuẩn bị.	0
+343	Mình chưa thấy có điểm nào không thích ở Côn Đảo cả, trừ việc để đi ra Côn Đảo thì mua vé hơi bị khó khăn và bị tăng giá lên khá cao so với giá thật - Vì máy bay Sài Gòn - Côn Đảo bị khai thác độc quyền.	0
+344	Vị trí hơi xa Pub Street	0
+345	Bậc thang đá nhỏ và trơn.	0
+346	Khách sạn 4 sao ( nhưng mình nghĩ chắc không đến vì ks trong phố, không gian không được lớn lắm).	0
+347	Trên đường đi vào hồ Đại Lải, bạn sẽ thất có rất nhiều nhà nghỉ nhưng không nên chọn những nhà nghỉ ở bên phía ngoài, đầu đường vì dịch vụ ở của những nhà nghỉ này không được tốt. Bắc đầu từ khách sạn một sao Mê Linh đi vào là địa điểm của những nhà nghỉ và khách sạn tương đối chất lượng.	0
+348	"Nhập cảnh ở Sing vẫn còn nhiều khó khăn vì nhiều lý do
+                                              "	0
+349	Chưa được sự quan tâm của chính quyền sở tại đối với việc quảng bá, hướng dẫn du khách thăm quan những địa danh những cảnh quan thiên nhiên ưu đãi cho vùng đất này.	0
+350	Những ngày nghỉ lễ, cuối tuần, dịp hè đợi cáp treo khá đông	0
+351	"- Nhân viên cứng đờ, chả thấy cười gì cả, không lẽ bị chị chủ tranh hết phần rồi?
+              - Nước lẩu cho nhiều mì chính, ăn xong về cứ thấy đơ đơ."	0
+352	Thành phố đông đúc, nhiều bê tông. Xe tuk tuk lạng lách, chăn dắt khách đi mua sắm.	0
+353	Khi nhóm mình đang thuê tuk tuk để đi ra bến tàu đi Hoàng Cung tham quan thì bị 1 người đàn ông tầm trung niên tỏ ra rất tốt bụng và thân thiện, Ông ta tự giới thiệu là giáo viên dạy ở trường đại học gần đó, có chị gái cũng làm việc tại Hà Nội., Ông đang ở đây để đợi vợ đang có việc trong Ngân hàng. sau đps, ông báo nhóm mình là hôm nay Hoàng Cung không mở cửa buổi sáng vì có lễ, 	0
+354	Về mùa đông rất lạnh. Mùa nắng gió Lào thì nóng và khô có thể khiên da khô và nứt nẻ.	0
+355	Hội đua ngựa thường tổ chức vào đầu tháng 6 nên thời tiết rất nóng, có khi lại mưa rất to, giá phòng nghỉ cũng tăng khá cao	0
+356	Vẫn là đất nước tiểu nông nhỏ và cũ kỹ, chưa thực sự bài bản trong việc tạo ra các trải nghiệm du lịch	0
+357	Từ Hà Nội đến Tam Đảo khoảng 80km theo đường Vĩnh Yên, Vĩnh Phúc, đường dễ đi, chỉ có một đoạn leo núi lên Tam Đảo là phải cẩn thận hơn.	0
+358	An ninh ko yên tâm. Đồ ăn hơi ngọt (nhưng giờ cũng đầy món ko ngọt cho người Bắc rồi). Mưa nắng thất thường :D	0
+359	Một số khách du lịch vẫn còn vất rác bừa bãi trên bờ và ở dưới bãi cát ở biển. 	0
+360	Không có điều gì đến mức không thích :)	0
+361	Mình thấy Pattaya bình thường, chưa đi thì nên đi cho biết nhưng không phải là điểm có thể quay lại nhiều lần. Thành phố thì hơi nóng, chật chội, ồn ào. Tắm biển phải ra đảo hoặc tìm các resort xa xa. Có rất nhiều điểm tham quan ở quanh Pattaya nhưng phần lớn là công nghệ du lịch chứ không phải các điểm thiên nhiên.	0
+362	"Không gian núi đồi dĩ nhiên thoáng đãng nhưng khá buồn tẻ, lên BK chẳng biết đi đâu, chơi gì ngoài Hồ Ba Bể.
+                                              Dịch vụ cũng hầu như không có gì mấy."	0
+363	"- Hay kẹt xe.
+                                              - Vào mùa mưa thì mưa nắng bất thường, có khi mưa dầm dề từ sáng đến tối và liên tục trong mấy ngày.
+                                              - An ninh không tốt, ra đường lưu ý bị giật đồ.
+                                              - Không khí không trong lành."	0
+364	Chỉ có một điểm mình không thích đó là lịch hoạt động của các tàu cao tốc. Lúc mình về phải ngồi chờ vì tàu đến trễ, đã thế cảng lại khá nhỏ nên lúc tàu của mình đến rồi nhưng bị che lấp bởi một cái tàu to hơn nên bọn mình không phát hiện ra. May mắn là khi tàu gần đi có một chị lên hỏi chúng mình đi tàu nào nên mới kịp chạy vội ra tàu không có lẽ đã mất tiền mà ở lại đảo luôn rồi.	0
+365	Chưa thấy có gì là không thích.	0
+366	"- Đường đi suối Đá Bàn hơi khó khăn, không có biển chỉ dẫn.
+                                              
+                                              "	0
+367	Nước biển quá đục.	0
+368	Chưa có nhiều xe đi lại vào khu du lịch Hồ Núi Cốc cho lắm, nên phải chờ bus, đi du lịch như vậy thì quá mệt. Ở hồ Vai Miếu, nhiều người còn vứt rác bừa bãi nhất là ở mấy chỗ hòn đá to, ăn uống xong là để nguyên hiện trường như vậy.	0
+369	"Đường đi rất quanh co, gấp khúc, nếu bị say xe thì không thể đi được
+                                              Dịch vụ tại Xiêng Khoảng không có nhiều"	0
+370	Vũng Tàu tuy phát triển tốt về du lịch và dịch vụ, nhưng vẫn còn có những cái tôi vẫn không thích đó là nước biển không được sạch, vệ sinh môi trường ở bãi biển công cộng không được tốt và tôi ghét nhất là taxi họ chạy rất ẩu và nếu bạn đi khoảng cách gần sẽ thấy mình bị cư xử tệ và thậm chí họ còn không chở, tôi đã bị vài lần nên toàn ra đó thuê xe máy tự đi chứ ghét đi taxi lắm. Và điều làm tôi khó chịu nhất là nạn cò nhà hàng và khách sạn, bạn vừa rẽ vào đường Thùy Vân dọc bãi biển thôi là đầy những anh cò, chị cò cứ kè kè xe máy chạy theo mời mọc khách sạn, nhà hàng, mà họ toàn dẫn mình vào những chỗ ăn dở tệ mà còn bị &quot;chém&quot; đẹp nữa, hic......	0
+371	Bởi Sapa nằm trên núi cao vì vậy rất nhiều hơi sương, không thể nhìn thấy cảnh vật. Chỉ cần dính mưa một chút thôi cũng đã rất phiền. Thời tiết Sapa đẹp thật nhưng lại hay thay đổi đột ngột, dễ mưa và nắng cũng dễ cháy da. 	0
+372	"- Bạn sẽ bị hỏi đã đi làm hay còn sinh viên tại khu vực nhập cảnh, nếu bạn nói là đã đi làm, nhân viên an ninh sẽ xin thẳng thừng tiền tip :))) 1-5-10 USD heheeh.
+                                              - Vào tháng 4,5,6,7, nơi đây quá nóng. Nắng gay gắt từ 8h sáng tới 3h chiều, điểm yêu thích nhất là nên ở lại trong khách sạn :)"	0
+373	Phải đi ra đảo bằng tàu, khá mệt cho người bị say sóng và trẻ nhỏ	0
+374	"- Do chưa phát triển nhiều về du lịch nên các dịch vụ ăn uống, giải trí hầu như chỉ tập trung ở khu cầu cảng, nếu các bạn ở xa hơn đi lại sẽ rất kho khăn, đường tối, có chút ổ gà, thi thoảng đi còn gặp các anh cơ động nhưng được cái các anh cơ động ở đây rất nhiệt tình với khách du lịch nên vấn đề này không đáng ngại lắm.
+                                              - Đảo đang được xây khá nhiều khách sạn và dịch vụ nên rất bụi ở khu vực cầu cảng, kèm cái nắng khó chịu của miền biển sẽ khiến bạn có cảm giác thất vọng lúc đầu khi đặt chân lên đảo."	0
+375	tuy có nhiều cái hay, cái tốt thật nhưng bên cạnh đó còn rất nhiều bất cập cho khách du lịch như giá vé quá cao, ngày lễ, ngày nghỉ giá phòng khách sạn tăng cao	0
+376	Giá hơi đắt so với những hàng khác	0
+377	"- Chủ tiệm ko có trình độ. Bị cảm mà cho thuốc uống hoài ko hết, qua chỗ khác bán uống hết ngay
+- Phục vụ coi thường khách, bắt khách chờ vô tội vạ"	0
+378	Đối với những bạn thích yên tĩnh và không thích mấy  trò bạo lực thì đừng qua vinpearn tốn tiền. trời ơi qua bển toàn mấy trò chóng mặt gọi là cần thần kinh thép nên mình ko chịu nổi. lại rất là đông. Bên đó cung nhiều chương trình hãy thât bãi biển cũng đẹp nhưng ko phù hợp với mình lắm.	0
+379	"Vẫn còn hiện tượng chặt chém khách, 
+                                              Nhiều chỗ người bán hàng không thân thiện, 
+                                              Nhà vệ sinh bẩn, 
+                                              chen lấn xếp hàng mua vé vào cổng, xuống thuyền, 
+                                              Câu kéo khách mua ảnh"	0
+380	Khu chợ đêm tôi nghe kể nếu chọn k đúng quán sẽ bị chặt chém mà không ngon miệng!	0
+381	Đường đi hơi khó khăn, các phương tiện qua lại nhiều	0
+382	Search trên mạng cả nhà thử ăn ở Quán lẩu bò Hạnh - Bùi Thị Xuân ồn ào, đông khách, phục vụ chậm. Do đi ngắn ngày nên chưa khám phá ra chỗ có đồ ăn ngon, yên tĩnh	0
+383	"- Quán nằm trong ngõ nhỏ, không có chỗ để xe. Quán cũng chật, không thể đi nhóm đông được.
+              - Chửi khách như hát hay."	0
+384	Mọi thứ đều tuyệt	0
+385	Đồ uống chưa ngon, không đặc sắc.	0
+386	Để đảm bảo chuyến du lịch vui vẻ và có ý nghĩa hãy tham khảo thông tin và tham gia các tour trải nghiệm. Các bạn đến đảo không nên so sánh với các dịch vụ nơi đất liền vì nơi đây phát triển theo mô hình du lịch cộng đồng và vấn đề nghỉ dưỡng và trải nghiệm là vấn đề đầu tiên mà nhân dân trên đây muốn hướng tới để phục vụ khách hàng.	0
+387	Đường đi khá hiểm trở, ko có nhiều nhà nghỉ, khách sạn, nhất là trên Mèo Vạc Lũng Cú. Nếu đi cần đặt phòng trước. 	0
+388	"- Lẩu bò nhúng dấm theo mình khá tệ, chẳng thấy vị chua thanh đâu cả mà sực nức mùi dừa và vị ngọt, vì các bạn cho dừa bào nhiều quá.
+              - Món lẩu lên rất chậm, phải giục đúng nghĩa 5 lần 7 lượt mới thấy mang ra.
+              - Ngô chiên hơi nhạt."	0
+389	"- Rất nhiều hôm rau không tươi, úa, nát nên hay phải xin thêm rau.
+              - Quán đông quá nên ngồi khá chật chội, chỗ để xe cũng bí bức."	0
+390	"- Phục vụ rất kém và thiếu chuyên nghiệp.
+              - Đồ tẩm ướp mặn. Thịt thái cả tảng, nhìn đã thấy ko muốn ăn."	0
+391	"Đệm mút chất lượng kém nên nằm đau lưng.
+              Wc hơi tối."	0
+392	Gọi món hơi lâu	0
+393	Chủ quán thì khá khó tính rồi, đến trễ hay ăn không đúng bị la như chơi.	0
+394	Điểm trừ là quán ko có chỗ để xe, phải gửi xe ở bên đường, hơi bất tiện	0
+395	 Chỗ ngồi là mấy hàng ghế trong 1 con ngõ nhỏ nên hơi chật.	0
+396	ở đầu một ngõ nhỏ bé xíu, giờ tan tầm dân trong ngõ đó đi làm về rất đông đúc	0
+397	Chưa có nhiều khách sạn, nhà nghỉ, chủ yếu vẫn là homestay.	0
+398	Quán thường tập trung khách vào buổi chiều tối, khá đông, nên ngồi hơi chật chội chút xíu.	0
+399	Điện lươí ở đây cũng chưa ổn định	0
