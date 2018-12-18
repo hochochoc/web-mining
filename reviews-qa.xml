@@ -1,0 +1,366 @@
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Mình đi ăn trưa 1 mình gọi 3 món: cuộn cali, maki phomai tem, bụng cá hồi.</text>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Món ăn bắt mắt, sashimi bụng cá hồi tươi ngon do mình thích ăn sashimi lạnh để trên đá kiểu ntn, cơm cuộn cơm rất ngon sốt tạm được bột phủ giòn. </text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#STYLE_OPTIONS" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Giá cả rất oke, nhà hàng văn nhạc hợp với thị hiếu của mình.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#PRICE" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Phục vụ nhiệt tình nhanh nhạy chu đáo.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Quán nhỏ view đẹp đồ ăn ngon chú chủ quán thân thiện.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Nếu có dịp lên lại sapa nhất định sẽ quay lại quán và ăn món gà sốt honey vs gừng</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#STYLE_OPTIONS" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Và sẽ gt cho mn khi đến su lịch tại sapa.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Quán ăn nhỏ, ấm cúng.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Đồ ăn ngon, lạ, chế biến và trình bày món rất đẹp mắt</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#STYLE_OPTIONS" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Nhà ăn ăn 1 đĩa ức vịt, 1 đĩa bò-kem-khoai tây Hungary rất ngon, hấp dấn.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#STYLE_OPTIONS" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Quán nên có đèn sáng hơn.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="negative" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Chủ quán và nhân viên rất vui vẻ, thân thiện, nhiệt tình tư vấn cho khách hàng các địa điểm du lịch, ngắm cảnh ở Sapa.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Good Morning Vietnam có đội ngũ nhân viên rất thân thiện chào đón bạn.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Một lựa chọn thực đơn tốt của thực phẩm địa phương có nguồn gốc từ khu vực ngay lập tức của SaPa</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Rất tốt trình bày và giá cả đặc biệt.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#STYLE_OPTIONS" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#PRICE" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>2 khóa học chính và 2 đồ ngọt cùng với 3 loại bia địa phương và 1 loại nước ngọt đến hơn 20 đô la Mỹ.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#PRICE" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Rất muốn giới thiệu.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Đồ ăn ngon và giá hợp lý, phục vụ nhiệt tình.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#PRICE" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>rất phù hợp khi giới thiệu với khách nước ngoài về ẩm thực Việt Nam.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Buffet sáng nhưng rất đa dạng, có cả các món nóng của Việt Nam như bún, phở gọi riêng và cả các món trứng chiên làm tại chỗ.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>rất phù hợp khi giới thiệu với khách nước ngoài về ẩm thực Việt Nam.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Tôi đã thử hai món cá mèo và cả hai đều tuyệt vời.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Khi tôi yêu cầu đóng gói thức ăn còn lại của tôi, nhân viên thậm chí còn tình nguyện cho tôi ăn cơm mới.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>tôi cũng được cung cấp một số bánh quy miễn phí trong khi chờ đợi món ăn của tôi.</text>
+                <opinions>
+                    <opinion target="jekyll and hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Bữa sáng tự chọn của họ cũng rất tuyệt.</text>
+                <opinions>
+                    <opinion target="jekyll and hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                </opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Thức ăn đắt tiền nhưng đáng giá.</text>
+                <opinions>
+                    <opinion target="jekyll and hyde" category="FOOD#PRICE" polarity="negative" from="21" to="36"/>
+                    <opinion target="jekyll and hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                </opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Lần đầu được trải nghiệm một nhà hàng với phong cách trang trí vô cùng độc đáo,không gian ấm cúng,cộng thêm lại có view thẳng ra núi chứ.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Lần tới lên sapa nhất định sẽ ghé qua lần nữa.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Món ăn ngon , nhà hàng sạch , nơi thưởng thức đồ ăn uống ngắm cảnh đẹp nhất Sa pa, phục vụ chu đáo , nên ghé khi tới Sapa.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Không gian nhà hàng ấm cúng, nhân viên thân thiện, đồ ăn phong phú và chế biến rất ngon.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Điều đặc biệt là thiết kế, trang trí nhà hàng rất đẹp, view tuyệt vời.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Không khỏi ngỡ ngàng khi ngồi tại Sapa SkyView phóng tầm mắt ra phía xa.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Một khung cảnh lãng mạng hiện ra trước mắt đẹp tuyệt vời, cứ tưởng mình đang mơ.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Mong một lần đến sapa và không bị thất vọng bởi cảnh đẹp và con người nơi đây.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Được ở tại một trong những khách sạn cổ và đẹp nhất sapa.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text> View nhà hàng tuyệt đẹp, đồ ăn tươi ngon và hấp dẫn.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#STYLE_OPTIONS" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>món ăn siêu ngon hợp khẩu vị giá cả cũng rất hợp lý,nhân viên phục vụ thân thiện và chuyên nghiệp ,quan trọng nơi đây có tầm nhìn tuyệt đẹp.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#PRICE" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Chỉ có thể dùng từ tuyệt vời.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+              <text>Phòng tắm bị mốc, ẩm ướt và bẩn thỉu</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="negative" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Hơn nữa, sô-cô-la nóng không có vị sô-cô-la (Milo có thể?)</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="negative" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Và mùi vị của cà phê bị cháy</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="negative" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Bánh ngọt trông rất ngon nhưng những hình ảnh buồn bã của bánh pizza và bánh mì kẹp thịt trên tường và đồ uống nghèo khiến chúng tôi phải rời đi</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#STYLE_OPTIONS" polarity="negative" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+              <text>Thịt xông khói rất ít nhưng rất nhiều hành và dưa chuột</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="negative" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Cà phê cappuccino ngon và được chế biến đúng cách</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>thật khó để thư giãn ở đây</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="negative" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+              <text>Thức ăn không có hương vị và cách cư xử khủng khiếp</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="negative" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="negative" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Tôi đã đi du lịch ở châu Á trong 3 tuần và là thực phẩm tồi tệ nhất từ ​​trước tới nay</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="negative" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Đừng đi đến nơi này thật ghê tởm, khủng khiếp</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="negative" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
