@@ -1417,20 +1417,19 @@
             </sentence>
         </sentences>
     </Review>
-    <Review rid="1199480">
+    <Review>
         <sentences>
-            <sentence id="1199480:1">
+            <sentence>
                 <text>Tôi ăn ở đây ba lần và luôn thấy rất tuyệt vời.</text>
                 <Opinions>
-                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                    <Opinioncategory="RESTAURANT#GENERAL" polarity="positive"/>
                 </Opinions>
             </sentence>
-            <sentence id="1199480:2">
+            <sentence>
                 <text>Tôi đặc biệt đánh giá cao nơi này cho một dịp đặc biệt nào đó, dịch vụ sẽ rất tốt.</text>
                 <Opinions>
-                    <Opinion target="setting" category="AMBIENCE#GENERAL" polarity="positive" from="75" to="82"/>
-                    <Opinion target="service" category="SERVICE#GENERAL" polarity="positive" from="92" to="99"/>
-                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="positive" from="0" to="0"/>
+                    <Opinion category="SERVICE#GENERAL" polarity="positive"/>
+                    <Opinion category="RESTAURANT#GENERAL" polarity="positive"/>
                 </Opinions>
             </sentence>
         </sentences>
