@@ -1,0 +1,195 @@
+<Reviews>
+    <Review rid="P#3">
+        <sentences>
+            <sentence id="P#3:0">
+                <text>Không khí tuyệt vời.</text>
+                <Opinions>
+                    <Opinion target="Atmosphere" category="AMBIENCE#GENERAL" polarity="positive" from="6" to="16"/>
+                </Opinions>
+            </sentence>
+            <sentence id="P#3:2">
+                <text>Tôi đánh giá cao món tacos cá, những món khác ổn.</text>
+                <Opinions>
+                    <Opinion target="fish tacos" category="FOOD#QUALITY" polarity="positive" from="23" to="33"/>
+                    <!-- <Opinion target="NULL" category="FOOD#QUALITY" polarity="neutral" from="0" to="0"/> -->
+                </Opinions>
+            </sentence>
+            <sentence id="P#3:3">
+                <text>Không khí mát mẻ, khu lò sưởi phía sau tốt nhưng cần nóng hơn chút cho một buổi tối lạnh.</text>
+                <Opinions>
+                    <Opinion target="atmosphere" category="AMBIENCE#GENERAL" polarity="positive" from="5" to="15"/>
+                    <Opinion target="fire place" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="31"/>
+                    <Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>	
+    <Review rid="CLF#8">
+        <sentences>
+            <sentence id="CLF#8:0">
+                <text>Dịch vụ và quản lý tệ.</text>
+                <Opinions>
+                    <Opinion target="service" category="SERVICE#GENERAL" polarity="negative" from="5" to="12"/>
+                    <Opinion target="management" category="SERVICE#GENERAL" polarity="negative" from="17" to="27"/>
+                </Opinions>
+            </sentence>
+            <sentence id="CLF#8:1">
+                <text>Đừng đến địa điểm này!</text>
+                <Opinions>
+                    <Opinion target="place" category="RESTAURANT#GENERAL" polarity="negative" from="17" to="22"/>
+                </Opinions>
+            </sentence>
+            <sentence id="CLF#8:2">
+                <text>Một trải nghiệm kinh khủng tại Casa la Femme cho bữa tối ngày thứ bảy.</text>
+                <Opinions>
+                    <Opinion target="Casa la Femme" category="RESTAURANT#GENERAL" polarity="negative" from="27" to="40"/>
+                </Opinions>
+            </sentence>
+            <sentence id="CLF#8:3">
+                <text>Món khai vị mất gần một tiếng.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="CLF#8:4">
+                <text>Khi món chính cuối cùng cũng được dọn lên (thêm 45 phút), nửa số món chúng tôi gọi vẫn thiếu.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="CLF#8:5">
+                <text>Không nhận được lời giải thích nào cho những vấn đề đang xảy ra.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="CLF#8:6">
+                <text>Quản lý thô lỗ và xử lý các tình huống tệ.</text>
+                <Opinions>
+                    <Opinion target="manager" category="SERVICE#GENERAL" polarity="negative" from="4" to="11"/>
+                </Opinions>
+            </sentence>
+            <sentence id="CLF#8:7">
+                <text>Khi chúng tôi đề nghị dời đi, chúng tôi được đề nghị giảm giá tí tẹo mặc dù đồ chúng tôi gọi bị thiếu hơn nửa.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="CLF#8:8">
+                <text>Chúng tôi nghe những khách hàng khách phàn nàn về vấn đề tương tự.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="CLF#8:9">
+                <text>Không thể tin được một nhà hàng NYC đắt đỏ lại thiếu tôn trọng khách hàng.</text>
+                <Opinions>
+                    <Opinion target="restaurant" category="FOOD#PRICE" polarity="negative" from="35" to="45"/>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="ADLT#11">
+        <sentences>
+            <sentence id="ADLT#11:0">
+                <text>Thật rắc rối!</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="ADLT#11:1">
+                <text>Thực ăn rất được.</text>
+                <Opinions>
+                    <Opinion target="food" category="FOOD#QUALITY" polarity="positive" from="4" to="8"/>
+                </Opinions>
+            </sentence>
+            <sentence id="ADLT#11:3">
+                <text>Lần cuối đến đây, họ bỏ sót tên chúng tôi trong danh sách, và để chúng tôi đợi thêm một tiếng để có bàn.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="ADLT#11:4">
+                <text>Sự cố xảy ra, nhưng không lời xin lỗi hay một ly rượu vang mà là tiếng lẩm bẩm khó chịu của nhân viên.</text>
+                <Opinions>
+                    <Opinion target="staff" category="SERVICE#GENERAL" polarity="negative" from="149" to="154"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>		
+    <Review rid="WE#1">
+        <sentences>
+            <sentence id="WE#1:0">
+                <text>Đắt.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="FOOD#PRICE" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="WE#1:3">
+                <text>Bánh mì thiu, salad đắt và không có gì.</text>
+                <Opinions>
+                    <Opinion target="bread" category="FOOD#QUALITY" polarity="negative" from="4" to="9"/>
+                    <Opinion target="salad" category="FOOD#PRICE" polarity="negative" from="25" to="30"/>
+                    <Opinion target="salad" category="FOOD#STYLE_OPTIONS" polarity="negative" from="25" to="30"/>
+                </Opinions>
+            </sentence>
+            <sentence id="WE#1:4">
+                <text>Pasta nấu vừa chín, nhưng không đủ nước sốt.</text>
+                <Opinions>
+                    <Opinion target="pasta" category="FOOD#QUALITY" polarity="positive" from="4" to="9"/>
+                    <Opinion target="pasta" category="FOOD#QUALITY" polarity="negative" from="4" to="9"/>
+                    <Opinion target="pasta" category="FOOD#STYLE_OPTIONS" polarity="negative" from="4" to="9"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="FF#6">
+        <sentences>
+            <sentence id="FF#6:0">
+                <text>Thật thô lỗ.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="FF#6:3">
+                <text>Tôi là một trong những người đến và có trải nghiệm kinh dị.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="FF#6:5">
+                <text>Người chủ thô lỗ và cảm giác họ không muốn phục vụ chúng tôi.</text>
+                <Opinions>
+                    <Opinion target="hostess" category="SERVICE#GENERAL" polarity="negative" from="4" to="11"/>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="negative" from="0" to="0"/>
+                </Opinions>
+            </sentence>
+            <sentence id="FF#6:6">
+                <text>Bạn tôi đã bỏ đi vì khi chúng tôi ngồi ở quầy rượu thì người pha chế biến mất.</text>
+                <Opinions>
+                    <Opinion target="bartender" category="SERVICE#GENERAL" polarity="negative" from="79" to="88"/>
+                </Opinions>
+            </sentence>
+            <sentence id="FF#6:7">
+                <text>Tôi hỏi thực đơn và cô phục vụ nhìn tôi như thể tôi bị điên.</text>
+                <Opinions>
+                    <Opinion target="waitress" category="SERVICE#GENERAL" polarity="negative" from="32" to="40"/>
+                </Opinions>
+            </sentence>
+            <sentence id="FF#6:8">
+                <text>Tôi ngạc nhiên khi bạn của tôi vẫn muốn ở lại sau khi người phục vụ nói, "Tôi có thể giúp gì cho bạn?" và "Tiệc của bạn có bao nhiêu người?".</text>
+                <Opinions>
+                    <Opinion target="waitress" category="SERVICE#GENERAL" polarity="negative" from="55" to="63"/>
+                </Opinions>
+            </sentence>
+            <sentence id="FF#6:12">
+                <text>Đáng buồn cho những nhân viên kinh khủng và thô lỗ ở đây và dịch vụ khách hàng tệ.</text>
+                <Opinions>
+                    <Opinion target="staff" category="SERVICE#GENERAL" polarity="negative" from="42" to="47"/>
+                    <Opinion target="customer service" category="SERVICE#GENERAL" polarity="negative" from="65" to="81"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>	
+</Reviews>
