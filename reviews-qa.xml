@@ -1,0 +1,75 @@
+    </Review>
+        <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Mình đi ăn trưa 1 mình gọi 3 món: cuộn cali, maki phomai tem, bụng cá hồi.</text>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Món ăn bắt mắt, sashimi bụng cá hồi tươi ngon do mình thích ăn sashimi lạnh để trên đá kiểu ntn, cơm cuộn cơm rất ngon sốt tạm được bột phủ giòn. </text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#STYLE_OPTIONS" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUALITY" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Giá cả rất oke, nhà hàng văn nhạc hợp với thị hiếu của mình.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#PRICE" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Phục vụ nhiệt tình nhanh nhạy chu đáo.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    </Review>
+        <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Quán nhỏ view đẹp đồ ăn ngon chú chủ quán thân thiện.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Nếu có dịp lên lại sapa nhất định sẽ quay lại quán và ăn món gà sốt honey vs gừng</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#STYLE_OPTIONS" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Và sẽ gt cho mn khi đến su lịch tại sapa.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    </Review>
+        <Review rid="1930993">
+        <sentences>
+            <sentence id="1930993:0">
+                <text>Quán ăn nhỏ, ấm cúng.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="SERVICE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Đồ ăn ngon, lạ, chế biến và trình bày món rất đẹp mắt</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#STYLE_OPTIONS" polarity="positive" from="21" to="36"/>
+                    <Opinion target="Jekyll and Hyde" category="FOOD#QUANLITY" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+            <sentence id="1930993:0">
+                <text>Và sẽ gt cho mn khi đến su lịch tại sapa.</text>
+                <Opinions>
+                    <Opinion target="Jekyll and Hyde" category="AMBIENCE#GENERAL" polarity="positive" from="21" to="36"/>
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
